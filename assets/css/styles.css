@@ -66,11 +66,27 @@ hr{
 }
 
 footer{
-    position: relative;
+    position: fixed;
 	left: 0;
 	bottom: 0;
 	width: 100%;
 	padding: 20px;
+	text-align: center;
+	font-size: 10px;
+	color: #cccccc;
+	background-color: #666666;
+    border-top: 7px solid #4aaaa5;
+    margin-top: 20px;
+
+
+}
+
+.foot-Portfolio{
+    position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	padding: 15px;
 	text-align: center;
 	font-size: 10px;
 	color: #cccccc;
